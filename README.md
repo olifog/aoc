@@ -3,6 +3,11 @@
 
 Self-imposed challenge to solve every day of Advent of Code in a different language, any order I want.
 
+Days so far:
+
+1. odin
+2. dart
+
 Languages:
 
 1. python
@@ -27,6 +32,6 @@ Languages:
 20. swift
 21. ruby
 22. erlang
-23. prolog
+23. odin
 24. dart
 25. lua
