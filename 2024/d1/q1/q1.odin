@@ -8,7 +8,7 @@ import "core:strconv"
 import "core:slice"
 
 main :: proc() {
-	filename := "in.txt"
+	filename := "in.q1.txt"
 	data, ok := os.read_entire_file(filename, context.allocator)
 	if !ok {
 		return

@@ -2,7 +2,7 @@
 import 'dart:io';
 
 void main() {
-  final file = File('in.txt');
+  final file = File('in.q1.txt');
   final lines = file.readAsLinesSync();
 
   int count = 0;
