@@ -1,13 +1,15 @@
 
 # Advent of Code in 25 languages
 
-Self-imposed challenge to solve every day of Advent of Code in a different language, any order I want.
+Solving every day of Advent of Code in a different language!
 
 Days so far:
 
 1. odin
 2. dart
 3. ocaml
+4. julia
+5. c
 
 Languages:
 
